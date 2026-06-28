@@ -70,7 +70,7 @@ Köprü
       <td align="center">
         <img src="https://github.com/kullanici_adi5.png" width="80" height="80" style="border-radius: 8px;" alt="Yusuf Barış">
       </td>
-      <td><b>Necmettin Tabak</b></td>
+      <td><b>Yusuf Barış</b></td>
       <td>Developer</td>
       <td align="center">
         <a href="https://www.linkedin.com/in/yusuf-bar%C4%B1%C5%9F-965a8a2ab/" target="_blank">
