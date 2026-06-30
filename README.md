@@ -97,13 +97,12 @@ Bu uygulama, yapay zeka destekli planlama ve gerçek zamanlı dikkat takibi suna
 
 🏆 Motivasyon ve Ödül Sistemi: Tamamlanan görevler ve odaklanma süreleri sayesinde rozetler ve puanlar kazanarak motivasyonunuzu koruyun.
 
-## 👥 Hedef Kitle
+## 👥 Hedef Kitle 
 
-Bu proje, masa başında uzun saatler geçiren ve derin odaklanmaya (deep work) ihtiyaç duyan iki temel profil için tasarlanmıştır:
+Bu proje, Türkiye'nin yoğun rekabet gerektiren sınav ve iş kültürü göz önüne alınarak, derin odaklanmaya (deep work) en çok ihtiyaç duyan iki temel profil için tasarlanmıştır:
 
-### 1. Sınav ve Akademi Odaklı Öğrenciler
-LGS, YKS gibi yoğun sınav süreçlerine hazırlanan veya vize/final haftası geçiren gençler.
+### 1. Sınav Maratonundaki Gençler ve Öğrenciler (10-22 Yaş)
+LGS, YKS, KPSS veya ALES gibi yüksek rekabetli sınavlara hazırlanan, günde ortalama 4-8 saatini masa başında test çözerek veya konu anlatımı izleyerek geçiren kitle.
 
-### 2. Profesyoneller ve Uzaktan Çalışanlar
-İş akışını (flow) koruması gereken, mesaisini web üzerinde geçiren yazılımcılar, tasarımcılar ve freelancerlar.
-
+### 2. Uzaktan/Hibrit Çalışan Yazılımcılar ve Dijital Profesyoneller (20-45 Yaş)
+Başta yazılım mühendisleri ve junior geliştiriciler olmak üzere, gün boyu web tarayıcısı ve kod editörleri arasında mekik dokuyan, iş akışını (flow) koruması gereken uzaktan çalışan profesyoneller.
