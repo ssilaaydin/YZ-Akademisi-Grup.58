@@ -89,15 +89,15 @@ Bu uygulama, yapay zeka destekli planlama ve gerçek zamanlı dikkat takibi suna
 
 ## Ürün Özellikleri
 
-🌐 Web Tabanlı Kullanım: Hiçbir kurulum gerektirmeden doğrudan web tarayıcınız üzerinden hızlıca erişin.
+-  Web Tabanlı Kullanım: Hiçbir kurulum gerektirmeden doğrudan web tarayıcınız üzerinden hızlıca erişin.
 
-👁️ Kamera ile Odak Takibi: Web kameranız aracılığıyla dikkatinizin dağıldığnda algılayıp sizi uyarır.
+-  Kamera ile Odak Takibi: Web kameranız aracılığıyla dikkatinizin dağıldığnda algılayıp sizi uyarır.
 
-✅ Pratik Görev Yönetimi: Yapılacaklar listenizi kolayca ekleyin, düzenleyin ve işlerinizi takip edin.
+- Pratik Görev Yönetimi: Yapılacaklar listenizi kolayca ekleyin, düzenleyin ve işlerinizi takip edin.
 
-🏆 Motivasyon ve Ödül Sistemi: Tamamlanan görevler ve odaklanma süreleri sayesinde rozetler ve puanlar kazanarak motivasyonunuzu koruyun.
+-  Motivasyon ve Ödül Sistemi: Tamamlanan görevler ve odaklanma süreleri sayesinde rozetler ve puanlar kazanarak motivasyonunuzu koruyun.
 
-## 👥 Hedef Kitle 
+## Hedef Kitle 
 
 Bu proje, Türkiye'nin yoğun rekabet gerektiren sınav ve iş kültürü göz önüne alınarak, derin odaklanmaya (deep work) en çok ihtiyaç duyan iki temel profil için tasarlanmıştır:
 
