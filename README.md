@@ -97,3 +97,13 @@ Bu uygulama, yapay zeka destekli planlama ve gerçek zamanlı dikkat takibi suna
 
 🏆 Motivasyon ve Ödül Sistemi: Tamamlanan görevler ve odaklanma süreleri sayesinde rozetler ve puanlar kazanarak motivasyonunuzu koruyun.
 
+## 👥 Hedef Kitle
+
+Bu proje, masa başında uzun saatler geçiren ve derin odaklanmaya (deep work) ihtiyaç duyan iki temel profil için tasarlanmıştır:
+
+### 1. Sınav ve Akademi Odaklı Öğrenciler
+LGS, YKS gibi yoğun sınav süreçlerine hazırlanan veya vize/final haftası geçiren gençler.
+
+### 2. Profesyoneller ve Uzaktan Çalışanlar
+İş akışını (flow) koruması gereken, mesaisini web üzerinde geçiren yazılımcılar, tasarımcılar ve freelancerlar.
+
