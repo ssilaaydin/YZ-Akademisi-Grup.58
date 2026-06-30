@@ -81,3 +81,19 @@ Köprü
   </tbody>
 </table>
 
+
+## Ürün Açıklaması 
+
+Bu uygulama, yapay zeka destekli planlama ve gerçek zamanlı dikkat takibi sunan yeni nesil bir verimlilik asistanıdır. Çalışırken cihazınızın kamerasını kullanarak göz hareketlerinizi ve uyku durumunuzu analiz eder; dikkatiniz dağıldığında sizi uyararak tekrar işinize odaklanmanızı sağlar. Yapay zeka ile size özel günlük planlar oluştururken, oyunlaştırılmış rozet ve puan sistemiyle motivasyonunuzu her zaman en üst seviyede tutar. Hedeflerinize ulaşmak artık çok daha akıllı ve eğlenceli!
+
+
+## Ürün Özellikleri
+
+🌐 Web Tabanlı Kullanım: Hiçbir kurulum gerektirmeden doğrudan web tarayıcınız üzerinden hızlıca erişin.
+
+👁️ Kamera ile Odak Takibi: Web kameranız aracılığıyla dikkatinizin dağıldığnda algılayıp sizi uyarır.
+
+✅ Pratik Görev Yönetimi: Yapılacaklar listenizi kolayca ekleyin, düzenleyin ve işlerinizi takip edin.
+
+🏆 Motivasyon ve Ödül Sistemi: Tamamlanan görevler ve odaklanma süreleri sayesinde rozetler ve puanlar kazanarak motivasyonunuzu koruyun.
+
